@@ -1,0 +1,171 @@
+{
+  "products": [
+    {
+      "title": "iPhone X",
+      "price": "1000",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "category": "smartphones",
+      "image": "https://cdn.dummyjson.com/product-images/2/1.jpg",
+      "items": 1,
+      "id": "2"
+    },
+    {
+      "title": "Samsung Universe 9",
+      "price": "1500",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "category": "smartphones",
+      "image": "https://cdn.dummyjson.com/product-images/3/1.jpg",
+      "items": 1,
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "category": "smartphones",
+      "image": "https://cdn.dummyjson.com/product-images/5/1.jpg",
+      "items": 1
+    },
+    {
+      "id": "6",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "category": "laptops",
+      "image": "https://cdn.dummyjson.com/product-images/6/1.png",
+      "items": 1
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "category": "laptops",
+      "image": "https://cdn.dummyjson.com/product-images/7/1.jpg",
+      "items": 1
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "category": "laptops",
+      "image": "https://cdn.dummyjson.com/product-images/8/1.jpg",
+      "items": 1
+    },
+    {
+      "id": "9",
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "category": "laptops",
+      "image": "https://cdn.dummyjson.com/product-images/9/1.jpg",
+      "items": 1
+    },
+    {
+      "id": "10",
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "category": "laptops",
+      "image": "https://cdn.dummyjson.com/product-images/10/1.jpg",
+      "items": 1
+    },
+    {
+      "id": "4938",
+      "title": "Addidas Shoes",
+      "price": "350",
+      "description": "Original brand addidas shoes from new collections",
+      "category": "Shoes",
+      "image": "https://media.istockphoto.com/id/1453810805/photo/running-shoes.webp?b=1&s=170667a&w=0&k=20&c=vtjQAfny-JQWmoeClck89nLBi2cV8hQPzr_y_N_R3xI=",
+      "items": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Emad",
+      "lastName": "Gerges",
+      "userName": "omda2020",
+      "gender": "Male",
+      "email": "omdagerges2020@gmail.com",
+      "password": "123456789",
+      "city": "alexandria",
+      "image": "https://i.pinimg.com/236x/b3/34/53/b33453cdf27d92ebbf2627c6e848721f.jpg",
+      "phoneNumber": "01115511206",
+      "role": "admin"
+    },
+    {
+      "id": "29d4",
+      "firstName": "Fady",
+      "lastName": "Naeem",
+      "userName": "fady2020",
+      "gender": "Male",
+      "email": "fady2020@gmail.com",
+      "password": "123456789",
+      "city": "alexandria",
+      "image": "https://i.pinimg.com/236x/b3/34/53/b33453cdf27d92ebbf2627c6e848721f.jpg",
+      "phoneNumber": "01115511206",
+      "role": "admin"
+    },
+    {
+      "id": "d5fd",
+      "firstName": "hesham",
+      "lastName": "khalil",
+      "userName": "hesham",
+      "gender": "Male",
+      "email": "hesham@gmail.com",
+      "password": "123456",
+      "city": "cairo",
+      "image": "1234",
+      "phoneNumber": "01119554463",
+      "role": "member"
+    },
+    {
+      "firstName": "Micheal",
+      "lastName": "Gerges",
+      "userName": "mickogerges",
+      "gender": "Male",
+      "email": "omdagerges199@gmail.com",
+      "password": "123456",
+      "city": "Alexandria",
+      "image": "https://i.pinimg.com/236x/b3/34/53/b33453cdf27d92ebbf2627c6e848721f.jpg",
+      "phoneNumber": "01115511206",
+      "role": "user",
+      "id": "HXEyNr-"
+    },
+    {
+      "firstName": "Micheal",
+      "lastName": "Gerges",
+      "userName": "micko",
+      "gender": "Male",
+      "email": "omdagerges88@gmail.com",
+      "password": "1234566",
+      "city": "Alexandria",
+      "image": "https://i.pinimg.com/236x/b3/34/53/b33453cdf27d92ebbf2627c6e848721f.jpg",
+      "phoneNumber": "01115511206",
+      "role": "user",
+      "id": "DsoenEe"
+    },
+    {
+      "firstName": "Micheal",
+      "lastName": "Gerges",
+      "userName": "omdaaa",
+      "gender": "Male",
+      "email": "omdagerges1988@gmail.com",
+      "password": "123456789",
+      "city": "Alexandria",
+      "image": "https://i.pinimg.com/236x/b3/34/53/b33453cdf27d92ebbf2627c6e848721f.jpg",
+      "phoneNumber": "01115511206",
+      "role": "user",
+      "id": "8o3PFAC"
+    }
+  ]
+}
